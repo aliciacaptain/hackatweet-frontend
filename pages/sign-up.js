@@ -1,5 +1,5 @@
-import Head from 'next/head';
-import SignUp from '../components/SignUp';
+import Head from "next/head";
+import SignUp from "../components/SignUp";
 
 function SignUpPage() {
   return (
